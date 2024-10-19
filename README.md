@@ -3,7 +3,7 @@
 - 🌱 I’m currently a Python Django FullStack Developer
 - 💞️ I’m looking to collaborate on frontend designs 
 - 📫 How to reach me @cnaa_n  instagram
-- 😄 Pronouns: ...He
+- 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am lazy but smart..
 
 <!---
