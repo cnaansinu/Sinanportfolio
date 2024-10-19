@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @cnaansinu
-- 👀 I’m interested in coding
-- 🌱 I’m currently a Python Django FullStack Developer
-- 💞️ I’m looking to collaborate on frontend designs 
-- 📫 How to reach me @cnaa_n  instagram
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I am lazy but smart..
+Portfolio Of Muhammed Sinan
 
 <!---
 cnaansinu/cnaansinu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
